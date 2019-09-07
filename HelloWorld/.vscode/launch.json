@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - practice2",
+      "request": "launch",
+      "mainClass": "app.practice2",
+      "projectName": "HelloWorld"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - practice1",
+      "request": "launch",
+      "mainClass": "app.practice1",
+      "projectName": "HelloWorld"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - App",
+      "request": "launch",
+      "mainClass": "app.App",
+      "projectName": "HelloWorld",
+      "console": "integratedTerminal"
+    }
+  ]
+}
